@@ -49,7 +49,7 @@
   - 💬 Ask me about my code, I'll fix it if it's wrong<br>
   - 🎓I am currently pursuing a specialist degree in IS telecommunication networks.<br>
   - 👯 Looking for cooperation on backend web-development<br>
-  - 🙃 I need help with my studies. Make me regret my code and rewrite it. i'll be thrilled.<br>
+  - 🙃 I need help with my studies. Make me regret my code and i`ll rewrite it. i'll be thrilled.<br>
   - 📫 How to reach me: <a href="https://web.telegram.org/k/#@TugarinXV">telegram</a><br>
   - ⚡ hobby: chess♟, fitness🏋️‍♂️, self-improvement🏆, genre literature (behavioral psychology, self-help, technical literature)📚<br>
 
