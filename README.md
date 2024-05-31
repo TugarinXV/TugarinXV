@@ -14,10 +14,6 @@
 
 
   ```
-<div align="center">
-  <h2>Hi, I'm Danil 👋</h2>
-  <p>An aspiring web developer and Open Source enthusiast.<br>I like to learn, explore new technologies, read and listen to smart people.</p>
-</div>
 <br>
 <div align="center">
   <h3>📚 Currently Learning</h3>
