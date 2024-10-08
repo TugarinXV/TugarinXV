@@ -22,12 +22,7 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
   </a>
 </div>
-<br>
-<div align="left">
 
-  - ⚡ hobby: chess♟, fitness🏋️‍♂️, self-improvement🏆, genre literature (behavioral psychology, self-help, technical literature)📚<br>
-
-</div>
 
 
 
